@@ -1,0 +1,16 @@
+{
+  "type": "extension",
+  "name": "adblockify",
+  "description": "Stream Spotify music without interruptions — block audio, video, and banner ads instantly on SpotiKit.",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "spotify": "1.3.9",
+  "version": "1.0.0",
+  "source": "src/extension.ts",
+  "main": "dist/extension.js",
+  "authors": [
+    { "name": "wazixinho", "url": "https://github.com/wazixinho" },
+    { "name": "ririxi", "url": "https://github.com/rxri" }
+  ],
+  "tags": ["adblock", "ads", "block", "remove", "disable"]
+}
