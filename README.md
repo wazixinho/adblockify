@@ -1,6 +1,6 @@
 # adblockify — Spotify Adblocker Extension for SpotiKit
 
-Stream **Spotify on Windows** without interruptions. **adblockify** is a native [**SpotiKit**](https://spotikit.com) extension (ported from [`rxri/spicetify-extensions`](https://github.com/rxri/spicetify-extensions/tree/main/adblock)) that blocks audio ads, video ads, and UI banners automatically.
+Stream **Spotify on Windows** without interruptions. **adblockify** is a native [**SpotiKit**](https://spotikit.com) extension (ported from the original Spicetify [adblock](https://github.com/rxri/spicetify-extensions/tree/main/adblock) extension in [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions)) that blocks audio ads, video ads, and UI banners automatically.
 
 ![adblockify preview](preview.png)
 
@@ -16,4 +16,5 @@ Stream **Spotify on Windows** without interruptions. **adblockify** is a native 
 2. **Install from Link:** Click the link icon at the top of the SpotiKit Marketplace and paste `https://github.com/wazixinho/adblockify` *(or URI: `spotify:app:marketplace:install:wazixinho:adblockify`)*.
 
 ## Credits
-Original adblock research and Spicetify extension by [ririxi (`rxri`)](https://github.com/rxri/spicetify-extensions). Ported to the native SpotiKit lifecycle API by [@wazixinho](https://github.com/wazixinho).
+- **Original Spicetify Extension:** [adblock (`rxri/spicetify-extensions`)](https://github.com/rxri/spicetify-extensions/tree/main/adblock) by [ririxi (`rxri`)](https://github.com/rxri/spicetify-extensions)
+- **SpotiKit Port:** [@wazixinho](https://github.com/wazixinho)
